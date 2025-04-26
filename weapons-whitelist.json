@@ -1611,8 +1611,8 @@
         "icon": "detonator.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
         "banReason": "Gets Arsonist into places they shouldn't really be in."
       },
       {
@@ -1620,8 +1620,8 @@
         "icon": "flare_gun.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
         "banReason": "Flare punches are powerful and making Arsonist a pain to play against. Also a long range spammy projectile."
       }
     ],
