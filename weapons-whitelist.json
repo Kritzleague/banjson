@@ -130,8 +130,8 @@
       {
         "weapon": "Batarang",
         "icon": "batarang.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
         "statusPro": "Banned",
         "statusHL": "Banned",
         "banReason": "Spammy Projectile."
@@ -175,17 +175,18 @@
       {
         "weapon": "Mad Milk",
         "icon": "mad_milk.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Banned"
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Free healing for the team with a large splash radius."
       },
       {
         "weapon": "Hot Coco Blast",
         "icon": "hot_coco_blast.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
         "statusHL": "Banned"
       },
       {
@@ -280,7 +281,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Pain to fight against. The fact it makes you flinch is annoying enough for it to be banned."
+        "banReason": "Pain to fight against. Very easy to hit and the slow can seriously mess you up."
       },
       {
         "weapon": "Rally Racket",
@@ -289,7 +290,6 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Pain to fight against. The fact it makes you flinch is annoying enough for it to be banned."
       },
       {
         "weapon": "Wooden Sword",
@@ -683,11 +683,10 @@
       {
         "weapon": "Sticky Jumper",
         "icon": "sticky_jumper.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Unlike the rocket jumper, this one gets you to mid faster and you still have a primary."
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
+        "statusPro": "Allowed",
+        "statusHL": "Allowed"
       },
       {
         "weapon": "Bloody Bracer",
@@ -889,10 +888,11 @@
       {
         "weapon": "Aerial Bomber",
         "icon": "aerial_bomber.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed"
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Straight upgrade to stock in almost every situation due to the clip size buff, especially when rocket jumping."
       },
       {
         "weapon": "Blackbox",
@@ -1154,7 +1154,7 @@
         "icon": "disciplinary_action.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Banned",
+        "statusPro": "Allowed",
         "statusHL": "Allowed",
         "banReason": "Free speed that gets you to mid faster, making winning positions easier."
       },
@@ -1467,7 +1467,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Gonna be real, I dont know why this is banned. :shrug:"
+        "banReason": "Free 40% damage resistance while being able to stay at 450 health."
       },
       {
         "weapon": "Gravity Coil",
@@ -1545,7 +1545,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "This weapon is overpowered. This weapon is able to shutdown a rejuvenator ubered brute."
+        "banReason": "This weapon is able to shutdown a rejuvenator ubered brute, insane damage with easy to hit projectiles."
       }
     ],
     "Secondary": [
@@ -1618,8 +1618,8 @@
       {
         "weapon": "Flare Gun",
         "icon": "flare_gun.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
         "banReason": "Flare punches are powerful and making Arsonist a pain to play against. Also a long range spammy projectile."
@@ -1713,11 +1713,10 @@
       {
         "weapon": "Avenger",
         "icon": "avenger.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Free crits for just playing Mechanic."
       },
       {
         "weapon": "Bullet-stormer",
@@ -1968,10 +1967,11 @@
       {
         "weapon": "Blood Doctor",
         "icon": "blood_doctor.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed"
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Frequent easy to get minicrits and a longer beam range means the doctor can play very safe."
       },
       {
         "weapon": "Kritzkrieg",
@@ -1986,8 +1986,8 @@
         "icon": "rejuvenator.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
         "banReason": "Almost if not better then stock in every way. charges so fast you would have an uber on rollout."
       },
       {
@@ -1995,8 +1995,8 @@
         "icon": "vaccinator.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
         "banReason": "Take no damage free card."
       }
     ],
@@ -2118,8 +2118,8 @@
         "icon": "afterimage.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
         "banReason": "The deadringer but better."
       },
       {
