@@ -3,8 +3,8 @@
     "name": "Lakeside",
     "image": "lakeside.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
     "statusPro": "Anchor",
     "statusHL": "Anchor",
     "reason": ""
@@ -33,8 +33,8 @@
     "name": "Warmtic",
     "image": "warmtic.png",
     "gamemode": "koth",
-    "status4v5": "In Rotation",
-    "status6v6": "In Rotation",
+    "status4v5": "Anchor",
+    "status6v6": "Anchor",
     "statusPro": "In Rotation",
     "statusHL": "In Rotation",
     "reason": ""
@@ -45,8 +45,8 @@
     "gamemode": "koth",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -63,8 +63,8 @@
     "name": "Rooftops (New)",
     "image": "rooftops_new.png",
     "gamemode": "koth",
-    "status4v5": "In Rotation",
-    "status6v6": "In Rotation",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
     "statusPro": "In Rotation",
     "statusHL": "In Rotation",
     "reason": ""
@@ -85,9 +85,39 @@
     "gamemode": "koth",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "In Rotation",
-    "statusHL": "In Rotation",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
+  },
+  {
+    "name": "Harvest Alpine",
+    "image": "harvest_alpine.png",
+    "gamemode": "koth",
+    "status4v5": "Vaulted",
+    "status6v6": "Vaulted",
+    "statusPro": "Out of rotation",
+    "statusHL": "Out of rotation",
+    "reason": "Summer"
+  },
+  {
+    "name": "Harvest Winter",
+    "image": "harvest_winter.png",
+    "gamemode": "koth",
+    "status4v5": "Vaulted",
+    "status6v6": "Vaulted",
+    "statusPro": "Out of rotation",
+    "statusHL": "Out of rotation",
+    "reason": "Christmas"
+  },
+  {
+    "name": "Reap",
+    "image": "reap.png",
+    "gamemode": "koth",
+    "status4v5": "Vaulted",
+    "status6v6": "Vaulted",
+    "statusPro": "Vaulted",
+    "statusHL": "Vaulted",
+    "reason": "Crumpkins"
   },
   {
     "name": "Defrost",
@@ -125,58 +155,58 @@
     "gamemode": "koth",
     "status4v5": "Anchor",
     "status6v6": "Anchor",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
     "name": "Argyle",
     "image": "argyle.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
     "name": "Citrus",
     "image": "citrus.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
     "name": "Petra",
     "image": "petra.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
     "name": "Power Plant",
     "image": "power_plant.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
     "name": "Shiverift",
     "image": "shiverift.png",
     "gamemode": "koth",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -195,8 +225,8 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -205,8 +235,8 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -215,8 +245,8 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -235,8 +265,8 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -245,8 +275,8 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -255,18 +285,18 @@
     "gamemode": "ad",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
-    "name": "Calamity",
+    "name": "Calamity (New)",
     "image": "calamity.png",
     "gamemode": "pl",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -325,8 +355,8 @@
     "gamemode": "pl",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -343,20 +373,50 @@
     "name": "Frost",
     "image": "cp_frost.png",
     "gamemode": "cp",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
-    "name": "3cp Yellowvalley",
+    "name": "Citrus",
+    "image": "cp_citrus.png",
+    "gamemode": "cp",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
+    "reason": ""
+  },
+  {
+    "name": "3CP Yellowvalley",
     "image": "3cp_yellowvalley.png",
     "gamemode": "cp",
-    "status4v5": "Undecided",
-    "status6v6": "Undecided",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
+    "reason": ""
+  },
+  {
+    "name": "Undergrove",
+    "image": "undergrove.png",
+    "gamemode": "cp",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
+    "reason": ""
+  },
+  {
+    "name": "Staredawn",
+    "image": "staredawn.png",
+    "gamemode": "cp",
+    "status4v5": "Experimenting",
+    "status6v6": "Experimenting",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -375,8 +435,8 @@
     "gamemode": "ctf",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -395,8 +455,8 @@
     "gamemode": "ctf",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Vaulted",
+    "statusHL": "Vaulted",
     "reason": ""
   },
   {
@@ -405,8 +465,8 @@
     "gamemode": "ctf",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -415,8 +475,8 @@
     "gamemode": "ctf",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -425,8 +485,8 @@
     "gamemode": "ctf",
     "status4v5": "Vaulted",
     "status6v6": "Vaulted",
-    "statusPro": "Undecided",
-    "statusHL": "Undecided",
+    "statusPro": "Experimenting",
+    "statusHL": "Experimenting",
     "reason": ""
   },
   {
@@ -437,6 +497,6 @@
     "status6v6": "Vaulted",
     "statusPro": "Vaulted",
     "statusHL": "Vaulted",
-    "reason": ""
+    "reason": "Christmas"
   }
 ]
