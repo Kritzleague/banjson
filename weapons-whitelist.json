@@ -946,8 +946,8 @@
       {
         "weapon": "Liberty Launcher",
         "icon": "liberty_launcher.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
+        "status4v5": "Banned",
+        "status6v6": "Banned",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
         "banReason": "Banned if paired with Gunboats or Market Gardener"
