@@ -977,7 +977,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Busted charge shot."
+        "banReason": "Charge shot allowing for 1-shotting the med unless he gets a health pack."
       },
       {
         "weapon": "Direct Hit",
@@ -2036,7 +2036,7 @@
       {
         "weapon": "P.D.Q",
         "icon": "pdq.png",
-        "status4v5": "Allowed",
+        "status4v5": "Banned",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
