@@ -63,8 +63,8 @@
     "name": "Rooftops (New)",
     "image": "rooftops_new.png",
     "gamemode": "koth",
-    "status4v5": "Experimenting",
-    "status6v6": "Experimenting",
+    "status4v5": "Vaulted",
+    "status6v6": "Vaulted",
     "statusPro": "In Rotation",
     "statusHL": "In Rotation",
     "reason": ""
