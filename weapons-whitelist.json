@@ -71,7 +71,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Straight upgrade to stock. Higher dps, more ammo and a faster cap speed."
+        "banReason": "Straight upgrade to stock, allows for faster 2-shot kills, an extra bullet, and faster captures on top of that."
       }
     ],
     "Secondary": [
@@ -87,11 +87,11 @@
       {
         "weapon": "Concealed Carry",
         "icon": "concealed_carry.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Banned because it increases the time a scout can stay away from a medic with the permanent overheal on kill; it also lets a medic build uber at max rate"
+        "banReason": "Banned because it increases the time a scout can stay away from a medic with the permanent overheal on kill; it also lets a medic build uber at max rate."
       },
       {
         "weapon": "Conventional",
@@ -116,9 +116,9 @@
         "icon": "batarang.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Spammy Projectile"
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
+        "banReason": ""
       },
       {
         "weapon": "Bloxy Cola",
@@ -145,7 +145,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Free healing for the team with a large splash radius."
+        "banReason": ""
       },
       {
         "weapon": "Super Sneakers",
@@ -295,7 +295,7 @@
         "status6v6": "Allowed",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Lets the marksman do insane amounts of damage and 2 shot 7/9 classes even at full overheal, and lets him do this constantly and consistently. (rip my goat)"
+        "banReason": "Lets the marksman do insane amounts of damage and 2 shot 8/9 classes, 6/9 at full overheal, and lets him do this constantly and consistently. (rip my goat)"
       },
       {
         "weapon": "Skullbuster",
@@ -566,7 +566,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Mobile players are prohibited from using shields due to the turning bugs."
+        "banReason": "Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Chargin' Targe",
@@ -575,7 +575,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Mobile players are prohibited from using shields due to the turning bugs. Banned if paired with any Grenade Launchers (under review)"
+        "banReason": "Banned if paired with any Grenade Launchers (under review). Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Gladiator's Guard",
@@ -584,7 +584,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Mobile players are prohibited from using shields due to the turning bugs."
+        "banReason": "Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Ragin' Bull",
@@ -593,7 +593,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Lets the annihilator instantly kill anyone he wants for no cost."
+        "banReason": "Lets the annihilator instantly kill anyone he wants for no cost. Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Tide Turner",
@@ -602,7 +602,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Mobile players are prohibited from using shields due to the turning bugs. Banned if paired with any Grenade Launchers (under review)"
+        "banReason": "Banned if paired with any Grenade Launchers (under review). Mobile players are prohibited from using shields due to the turning bugs."
       }
     ],
     "Melee": [
@@ -788,7 +788,7 @@
         "status6v6": "Banned",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Banned if paired with Gunboats"
+        "banReason": "Banned if paired with Gunboats. Banned due to overload jumping not taking away rockets, allowing for a infinite jumps and 3 rockets to bomb with once done."
       },
       {
         "weapon": "Friendly Fire Foiler",
@@ -817,7 +817,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Direct Upgrade to stock. Higher damage and more ammo up close."
+        "banReason": "Direct upgrade to stock with higher damage and the ability to get an insane amount of clip size."
       },
       {
         "weapon": "Crankenstein",
@@ -853,7 +853,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Anybody that jumps at you takes minicrits just for jumping at you."
+        "banReason": "Deals minicrits to anyone blast jumping, which entirely prevents bombs for no cost."
       },
       {
         "weapon": "Boonie Blaster",
@@ -862,7 +862,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Reliable damage with an insane amount of knockback."
+        "banReason": "Reliable damage with an insane amount of knockback, letting the pocket trooper deny most bombs."
       },
       {
         "weapon": "Personal Death Ray",
@@ -880,7 +880,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "A teamwide uber that denies crits entirely."
+        "banReason": "Charges through both taking and dealing damage, rewarding playing stupidly."
       },
       {
         "weapon": "Buff Banner",
@@ -889,7 +889,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Instant fight winner that charges by taking damage."
+        "banReason": "Charges through taking damage, rewarding playing stupidly."
       },
       {
         "weapon": "Concheror",
@@ -1077,7 +1077,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Direct Upgrade to stock. Higher damage up close and more ammo."
+        "banReason": "Direct upgrade to stock with higher damage and the ability to get an insane amount of clip size."
       },
       {
         "weapon": "Crankenstein",
@@ -1183,11 +1183,11 @@
       {
         "weapon": "Boxing Gloves",
         "icon": "boxing_gloves.png",
-        "status4v5": "Banned",
+        "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Free Crits which can easily delete unprepared teams."
+        "banReason": ""
       },
       {
         "weapon": "Eviction Notice",
@@ -1205,7 +1205,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": ""
+        "banReason": "Gives brute insane damage resistance which lets him play poorly and yet still be rewarded for it."
       },
       {
         "weapon": "Gravity Coil",
@@ -1214,7 +1214,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Gets brute into places he shouldn't even be."
+        "banReason": "Gets brute into places he shouldn't even be without needing any risky jumps or movement."
       },
       {
         "weapon": "Speed Coil",
@@ -1272,7 +1272,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": ""
+        "banReason": "Free crits without fully sacrificing airblast, still being able to delete projectiles. Under Review."
       },
       {
         "weapon": "HuangLong's Wrath",
@@ -1301,7 +1301,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Direct upgrade to stock."
+        "banReason": "Direct upgrade to stock with higher damage and the ability to get an insane amount of clip size."
       },
       {
         "weapon": "Crankenstein",
@@ -1335,9 +1335,9 @@
         "icon": "detonator.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": ""
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
+        "banReason": "Allows the arsonist to bomb in and do insane afterburn to the doc, even if it doesn't kill, it forces the entire team back."
       },
       {
         "weapon": "Flare Gun",
@@ -1433,7 +1433,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Direct upgrade to stock."
+        "banReason": "Direct upgrade to stock with higher damage and the ability to get an insane amount of clip size."
       },
       {
         "weapon": "Crankenstein",
@@ -1675,8 +1675,8 @@
         "icon": "rejuvenator.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
         "banReason": "Essentially a full supercharge only countered by a marksman or insanely heavy focus fire, and it charges faster."
       },
       {
