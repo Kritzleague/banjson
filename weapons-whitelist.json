@@ -11,15 +11,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Mule Mauler 600",
-        "icon": "mule_mauler_600.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Baby Face's Blaster",
         "icon": "baby_faces_blaster.png",
         "status4v5": "Allowed",
@@ -40,15 +31,6 @@
       {
         "weapon": "Lupara DB",
         "icon": "lupara_db.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Mach-Coach",
-        "icon": "mach_coach.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -103,15 +85,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Raven",
-        "icon": "raven.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Concealed Carry",
         "icon": "concealed_carry.png",
         "status4v5": "Banned",
@@ -157,24 +130,6 @@
         "banReason": "Rechargeable get out of jail free card."
       },
       {
-        "weapon": "Bloxaide",
-        "icon": "bloxaide.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Rechargeable get out of jail free card."
-      },
-      {
-        "weapon": "Goala Cola",
-        "icon": "goala_cola.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Rechargeable get out of jail free card."
-      },
-      {
         "weapon": "Witches Brew",
         "icon": "witches_brew.png",
         "status4v5": "Banned",
@@ -186,15 +141,6 @@
       {
         "weapon": "Mad Milk",
         "icon": "mad_milk.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Free healing for the team with a large splash radius."
-      },
-      {
-        "weapon": "Hot Coco Blast",
-        "icon": "hot_coco_blast.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
         "statusPro": "Banned",
@@ -222,24 +168,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Holy Mackerel",
-        "icon": "holy_mackerel.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Rubber Chicken",
-        "icon": "rubber_chicken.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Atomizer",
         "icon": "atomizer.png",
         "status4v5": "Banned",
@@ -251,15 +179,6 @@
       {
         "weapon": "Brooklyn Basher",
         "icon": "brooklyn_basher.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Three-Rune Blade",
-        "icon": "three_rune_blade.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -303,15 +222,6 @@
         "banReason": "Pain to fight against. The fact it makes you flinch is annoying enough for it to be banned."
       },
       {
-        "weapon": "Rally Racket",
-        "icon": "rally_racket.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Pain to fight against. The fact it makes you flinch is annoying enough for it to be banned."
-      },
-      {
         "weapon": "Wooden Sword",
         "icon": "wooden_sword.png",
         "status4v5": "Allowed",
@@ -321,26 +231,8 @@
         "banReason": ""
       },
       {
-        "weapon": "Handyman",
-        "icon": "handyman.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Wrap Assasin",
         "icon": "wrap_assasin.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Spammy chip damage projectile."
-      },
-      {
-        "weapon": "Spare Hand",
-        "icon": "spare_hand.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
         "statusPro": "Banned",
@@ -358,15 +250,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Scythe for Sore Eyes",
-        "icon": "scythe_for_sore_eyes.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -390,15 +273,6 @@
       {
         "weapon": "Huntsman",
         "icon": "huntsman.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Spider Bite",
-        "icon": "spider_bite.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -480,26 +354,8 @@
         "banReason": "Banned when paired with the lemoblade."
       },
       {
-        "weapon": "Citric Reaction",
-        "icon": "citric_reaction.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Banned when paired with the lemoblade."
-      },
-      {
         "weapon": "Lemonade",
         "icon": "lemonade.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Free minicrits."
-      },
-      {
-        "weapon": "Bottled Lemonade",
-        "icon": "bottled_lemonade.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
         "statusPro": "Banned",
@@ -542,24 +398,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Guardian's Oath",
-        "icon": "guardians_oath.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Mummy Khopesh",
-        "icon": "mummy_khopesh.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -612,15 +450,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Twin-Turbolence",
-        "icon": "twin_turbolence.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Acid Trader",
         "icon": "acid_trader.png",
         "status4v5": "Banned",
@@ -641,15 +470,6 @@
       {
         "weapon": "Loose Cannon",
         "icon": "loose_cannon.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Recent buff (Typical Horrors IV) makes it easier to consistently double donk"
-      },
-      {
-        "weapon": "Jack-O Roger",
-        "icon": "jack_o_roger.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Banned",
@@ -796,15 +616,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Mummy Khopesh",
-        "icon": "mummy_khopesh.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Battle Axe",
         "icon": "battle_axe.png",
         "status4v5": "Allowed",
@@ -823,15 +634,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Darkness",
-        "icon": "darkness.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Elegant Blade",
         "icon": "elegant_blade.png",
         "status4v5": "Allowed",
@@ -840,16 +642,6 @@
         "statusHL": "Allowed",
         "banReason": ""
       },
-      {
-        "weapon": "Whirlpool Wraith",
-        "icon": "whirlpool_wraith.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Furious Flagxe",
         "icon": "furious_flagxe.png",
         "status4v5": "Banned",
@@ -868,15 +660,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Pirate Cutlass",
-        "icon": "pirate_cutlass.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Katana",
         "icon": "katana.png",
         "status4v5": "Allowed",
@@ -886,26 +669,8 @@
         "banReason": ""
       },
       {
-        "weapon": "Rising Sun Katana",
-        "icon": "rising_sun_katana.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Shock and Awe",
         "icon": "shock_and_awe.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Cuteness Overload",
-        "icon": "cuteness_overload.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -932,24 +697,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Big Bite",
-        "icon": "big_bite.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Original",
-        "icon": "original.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -982,15 +729,6 @@
       {
         "weapon": "Direct Hit",
         "icon": "direct_hit.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Night Sky Ignitor",
-        "icon": "night_sky_ignitor.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -1069,24 +807,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Armington",
-        "icon": "armington.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Eyes of Bermuda",
-        "icon": "eyes_of_bermuda.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -1171,15 +891,6 @@
         "banReason": "Instant fight winner that charges by taking damage."
       },
       {
-        "weapon": "Buffin' Blitz",
-        "icon": "buffin_blitz.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Instant fight winner that charges by taking damage."
-      },
-      {
         "weapon": "Concheror",
         "icon": "concheror.png",
         "status4v5": "Allowed",
@@ -1224,15 +935,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Mummy Khopesh",
-        "icon": "mummy_khopesh.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -1281,15 +983,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Rising Sun Katana",
-        "icon": "rising_sun_katana.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Market Gardener",
         "icon": "market_gardener.png",
         "status4v5": "Allowed",
@@ -1318,15 +1011,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Groovy Grinder",
-        "icon": "groovy_grinder.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -1366,15 +1050,6 @@
         "banReason": "Recently nerfed, so it is unbanned"
       },
       {
-        "weapon": "Monitor of Duty",
-        "icon": "monitor_of_duty.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Tomislav",
         "icon": "tomislav.png",
         "status4v5": "Allowed",
@@ -1392,24 +1067,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Armington",
-        "icon": "armington.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Eyes of Bermuda",
-        "icon": "eyes_of_bermuda.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -1467,24 +1124,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Diggity Dog",
-        "icon": "diggity_dog.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Second Banana",
-        "icon": "second_banana.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Brash Burger",
         "icon": "brash_burger.png",
         "status4v5": "Allowed",
@@ -1494,26 +1133,8 @@
         "banReason": ""
       },
       {
-        "weapon": "Jolly Gingerbread",
-        "icon": "jolly_gingerbread.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Dire Donut",
         "icon": "dire_donut.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Tungsten Torus",
-        "icon": "tungsten_torus.png",
         "status4v5": "Allowed",
         "status6v6": "Allowed",
         "statusPro": "Allowed",
@@ -1604,15 +1225,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Squid Coil",
-        "icon": "squid_coil.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Warrior's Spirit",
         "icon": "warriors_spirit.png",
         "status4v5": "Allowed",
@@ -1682,24 +1294,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Armington",
-        "icon": "armington.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Eyes of Bermuda",
-        "icon": "eyes_of_bermuda.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Bullet-stormer",
         "icon": "bullet_stormer.png",
         "status4v5": "Banned",
@@ -1765,15 +1359,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Mummy Khopesh",
-        "icon": "mummy_khopesh.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Escapist's Escapade",
         "icon": "escapists_escapade.png",
         "status4v5": "Allowed",
@@ -1829,24 +1414,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Armington",
-        "icon": "armington.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Eyes of Bermuda",
-        "icon": "eyes_of_bermuda.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -1933,15 +1500,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Raven",
-        "icon": "raven.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Conventional",
         "icon": "conventional.png",
         "status4v5": "Allowed",
@@ -1998,24 +1556,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Doll Maker",
-        "icon": "doll_maker.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
-        "weapon": "Golden Wrench",
-        "icon": "golden_wrench.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Eureka Effect",
         "icon": "eureka_effect.png",
         "status4v5": "Banned",
@@ -2065,15 +1605,6 @@
         "banReason": ""
       },
       {
-        "weapon": "Apollo",
-        "icon": "apollo.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": ""
-      },
-      {
         "weapon": "Syringe SMG",
         "icon": "syringe_smg.png",
         "status4v5": "Allowed",
@@ -2118,15 +1649,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Malpractitioner",
-        "icon": "malpractitioner.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
@@ -2326,24 +1848,6 @@
         "status6v6": "Always",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
-      },
-      {
-        "weapon": "Golden Knife",
-        "icon": "golden_knife.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Stock Downgrade."
-      },
-      {
-        "weapon": "Shadow Blessing",
-        "icon": "shadow_blessing.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
         "banReason": ""
       },
       {
