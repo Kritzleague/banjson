@@ -154,7 +154,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "You can just jump out of the range of a rocket splash; lets flanker have full control over his momentem making him a lot harder to hit when launched."
+        "banReason": "Allows to jump out of rocket splash radius and gives the flanker extreme mobility while retaining his primary."
       }
     ],
     "Melee": [
@@ -313,7 +313,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Free Minicrits from any range."
+        "banReason": "Allows for free easy minicrits for the entire team from any range."
       },
       {
         "weapon": "Urban Upriser",
@@ -416,7 +416,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Gets the marksman in places he should not be in."
+        "banReason": "Gets the marksman in places he should not be in without needing to parkour or take risky positions."
       },
       {
         "weapon": "Lemoblade",
@@ -557,34 +557,34 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Lets the annihilator pose a constant threat from the backline for 0 cost."
+        "banReason": "Lets the annihilator pose a constant threat from the enemy backline for no cost."
       },
       {
         "weapon": "Bloody Bracer",
         "icon": "bloody_bracer.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Mobile players banned from using shield due to turning bugs."
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Banned in PUGs unless your team is okay with it, as users were using shields to throw matches. Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Chargin' Targe",
         "icon": "chargin_targe.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Banned if paired with any Grenade Launchers (under review). Mobile players banned from using shield due to turning bugs."
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Banned in PUGs unless your team is okay with it, as users were using shields to throw matches. Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Gladiator's Guard",
         "icon": "gladiators_guard.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Mobile players banned from using shield due to turning bugs."
+        "status4v5": "Banned",
+        "status6v6": "Banned",
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "Banned in PUGs unless your team is okay with it, as users were using shields to throw matches. Mobile players banned from using shield due to turning bugs."
       },
       {
         "weapon": "Ragin' Bull",
@@ -593,16 +593,16 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Lets the annihilator instantly kill anyone he wants for no cost. Mobile players banned from using shield due to turning bugs."
+        "banReason": "Lets the annihilator instantly kill anyone he wants for no cost."
       },
       {
         "weapon": "Tide Turner",
         "icon": "tide_turner.png",
-        "status4v5": "Allowed",
-        "status6v6": "Allowed",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Banned if paired with any Grenade Launchers (under review). Mobile players are prohibited from using shields due to the turning bugs."
+        "status4v5": "Always",
+        "status6v6": "Always",
+        "statusPro": "Always",
+        "statusHL": "Always",
+        "banReason": "Banned with grenade launchers due to poor replication. Banned in PUGs unless your team is okay with it, as users were using shields to throw matches."
       }
     ],
     "Melee": [
@@ -707,7 +707,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": ""
+        "banReason": "Direct upgrade to stock with the same damage, more clip-size, and buffs while jumping, all for slightly less blast radius."
       },
       {
         "weapon": "Blackbox",
@@ -725,7 +725,7 @@
         "status6v6": "Banned",
         "statusPro": "Banned",
         "statusHL": "Banned",
-        "banReason": "Banned purely due to how busted the charge shot is."
+        "banReason": "Banned purely due to the charge shot one-tapping the doctor easily and with little skill."
       },
       {
         "weapon": "Direct Hit",
@@ -786,9 +786,9 @@
         "icon": "wreckers_yard.png",
         "status4v5": "Banned",
         "status6v6": "Banned",
-        "statusPro": "Allowed",
-        "statusHL": "Allowed",
-        "banReason": "Banned if paired with Gunboats. Banned due to overload jumping not taking away rockets, allowing for a infinite jumps and 3 rockets to bomb with once done."
+        "statusPro": "Banned",
+        "statusHL": "Banned",
+        "banReason": "(Banned in Highlander purely due to bugs.) Banned if paired with Gunboats. Banned due to overload jumping not taking away rockets, allowing for a infinite jumps and 3 rockets to bomb with once done."
       },
       {
         "weapon": "Friendly Fire Foiler",
@@ -835,7 +835,7 @@
         "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": ""
+        "banReason": "Under Review"
       },
       {
         "weapon": "Family Business",
@@ -1174,11 +1174,11 @@
       {
         "weapon": "Fists",
         "icon": "fists.png",
-        "status4v5": "Always",
-        "status6v6": "Always",
+        "status4v5": "Banned",
+        "status6v6": "Banned",
         "statusPro": "Always",
         "statusHL": "Always",
-        "banReason": ""
+        "banReason": "Gives brute insane damage resistance which lets him play poorly and yet still be rewarded for it."
       },
       {
         "weapon": "Boxing Gloves",
@@ -1268,11 +1268,11 @@
       {
         "weapon": "Phlogistinator",
         "icon": "phlogistinator.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
-        "statusPro": "Banned",
-        "statusHL": "Banned",
-        "banReason": "Free crits without fully sacrificing airblast, still being able to delete projectiles. Under Review."
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
+        "statusPro": "Allowed",
+        "statusHL": "Allowed",
+        "banReason": ""
       },
       {
         "weapon": "HuangLong's Wrath",
@@ -1333,11 +1333,11 @@
       {
         "weapon": "Detonator",
         "icon": "detonator.png",
-        "status4v5": "Banned",
-        "status6v6": "Banned",
+        "status4v5": "Allowed",
+        "status6v6": "Allowed",
         "statusPro": "Allowed",
         "statusHL": "Allowed",
-        "banReason": "Allows the arsonist to bomb in and do insane afterburn to the doc, even if it doesn't kill, it forces the entire team back."
+        "banReason": ""
       },
       {
         "weapon": "Flare Gun",
